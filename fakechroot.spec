@@ -4,7 +4,7 @@
 #
 Name     : fakechroot
 Version  : 2.19
-Release  : 2
+Release  : 3
 URL      : https://github.com/dex4er/fakechroot/archive/2.19.tar.gz
 Source0  : https://github.com/dex4er/fakechroot/archive/2.19.tar.gz
 Summary  : No detailed summary available
